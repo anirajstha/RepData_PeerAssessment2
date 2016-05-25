@@ -1,6 +1,9 @@
+---
+output: html_document
+---
 Reproducible Research: Peer Assessment 2
 ==========================================
-Ranjana Ghimire
+Niraj Man Singh Shrestha
 
 ## Impact of Severe Weather Events on Public Health and Economy in the United States
 
